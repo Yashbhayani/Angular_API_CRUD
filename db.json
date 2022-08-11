@@ -1,0 +1,50 @@
+{
+  "ProductList": [
+    {
+      "productName": "Mobile",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 45000,
+      "comment": "Vivo X56",
+      "date": "2022-06-01T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "Apple",
+      "date": "2022-06-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 55000,
+      "comment": "HP",
+      "date": "2022-06-18T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "New",
+      "date": "2022-06-19T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
